@@ -1,0 +1,15 @@
+F:\DesignPattern\CommandDP\CommandDP\bin\Debug\net6.0\CommandDP.exe
+F:\DesignPattern\CommandDP\CommandDP\bin\Debug\net6.0\CommandDP.deps.json
+F:\DesignPattern\CommandDP\CommandDP\bin\Debug\net6.0\CommandDP.runtimeconfig.json
+F:\DesignPattern\CommandDP\CommandDP\bin\Debug\net6.0\CommandDP.dll
+F:\DesignPattern\CommandDP\CommandDP\bin\Debug\net6.0\CommandDP.pdb
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.csproj.AssemblyReference.cache
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.AssemblyInfoInputs.cache
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.AssemblyInfo.cs
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.csproj.CoreCompileInputs.cache
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.dll
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\refint\CommandDP.dll
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.pdb
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\CommandDP.genruntimeconfig.cache
+F:\DesignPattern\CommandDP\CommandDP\obj\Debug\net6.0\ref\CommandDP.dll
