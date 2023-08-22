@@ -1,0 +1,15 @@
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\bin\Debug\net6.0\PocOnStatergy.exe
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\bin\Debug\net6.0\PocOnStatergy.deps.json
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\bin\Debug\net6.0\PocOnStatergy.runtimeconfig.json
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\bin\Debug\net6.0\PocOnStatergy.dll
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\bin\Debug\net6.0\PocOnStatergy.pdb
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.csproj.AssemblyReference.cache
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.AssemblyInfoInputs.cache
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.AssemblyInfo.cs
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.csproj.CoreCompileInputs.cache
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.dll
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\refint\PocOnStatergy.dll
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.pdb
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\PocOnStatergy.genruntimeconfig.cache
+F:\DesignPattern\PocOnStatergy\PocOnStatergy\obj\Debug\net6.0\ref\PocOnStatergy.dll
