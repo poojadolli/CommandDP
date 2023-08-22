@@ -1,0 +1,15 @@
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\bin\Debug\net6.0\TemplateDPpoc.exe
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\bin\Debug\net6.0\TemplateDPpoc.deps.json
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\bin\Debug\net6.0\TemplateDPpoc.runtimeconfig.json
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\bin\Debug\net6.0\TemplateDPpoc.dll
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\bin\Debug\net6.0\TemplateDPpoc.pdb
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.csproj.AssemblyReference.cache
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.AssemblyInfoInputs.cache
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.AssemblyInfo.cs
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.csproj.CoreCompileInputs.cache
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.dll
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\refint\TemplateDPpoc.dll
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.pdb
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\TemplateDPpoc.genruntimeconfig.cache
+F:\DesignPattern\TemplateDPpoc\TemplateDPpoc\obj\Debug\net6.0\ref\TemplateDPpoc.dll
